@@ -1,15 +1,15 @@
 {
-  "name": "tryscore",
-  "main": "tryscore",
+  "name": "Boom-Gluta-Shots",
+  "main": "Boom-Gluta-Shots",
   "theme": "syntax",
   "version": "0.0.2",
-  "description": "TRYSCORE.COM เป็นเว็บที่มีบริการเดิมพันออนไลน์ครบวงจร ไม่ว่าจะเป็นแทงบอลออนไลน์ คาสิโนออนไลน์ ราคาดีที่สุด เราคือ TRYSCORE.COM เว็บตรงจากบริษัทแม่ ไม่ผ่านเอเย่นต์ หมดปัญหาเรื่องการโกง",
+  "description": "Boom Gluta Shots นวัตกรรมรางวัลระดับโลก FIR Technology (Far Infrared Technology) จากงานประกวด Seoul International Invention Fair (SIIF 2020)คิดค้นขึ้นเพื่อเพิ่มประสิทธิภาพการดูดซึม จากส่วนผสมเชิงซ้อน FIR Glutathione Complex ที่เกิดจาก Glutathione ทำปฏิกิริยากับ Soybean Protein Isolate ช่วยเพิ่มการไหลเวียนเลือดและการทำงานของเซลล์ในร่างกาย ทำให้ส่วนผสมทั้งหมดสามารถดูดซึมได้ดีขึ้น ป้องกันการถูกน้ำย่อยในกระเพาะทำลายได้เกือบ 100% ทำให้ได้ผลลัพธ์ของความกระจ่างใสจากทุกๆ ซองอย่างเต็มประสิทธิภาพ",
   "keywords": [
     "UFABET",
     "SBOBET",
     "ISC888"
   ],
-  "repository": "https://github.com/ambkingdom/tryscore",
+  "repository": "https://github.com/ambkingdom/boom-gluta-shots",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
